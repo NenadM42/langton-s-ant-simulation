@@ -1,0 +1,5 @@
+﻿  Menu.c
+c:\users\nenad\onedrive\desktop\pdcursesvs\pdcurses-3.8\curses.h(183): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\wincontypes.h(103): note: see previous definition of 'MOUSE_MOVED'
+c:\users\nenad\source\repos\lengtonov mrav\lengtonov mrav\menu.c(125): warning C4098: 'menu': 'void' function returning a value
+  Lengtonov mrav.vcxproj -> C:\Users\nenad\source\repos\Lengtonov mrav\Debug\Lengtonov mrav.exe
